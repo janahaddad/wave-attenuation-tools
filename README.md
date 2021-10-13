@@ -1,4 +1,4 @@
-# wave-spectra
+# wave attenuation
 ocean wave spectral analysis 
 ## Title
 ### title?
