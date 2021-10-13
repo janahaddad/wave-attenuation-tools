@@ -4,7 +4,7 @@
 
 
 
-# wave attenuation
+# This is a test release of wave attenuation analysis tools 
 ocean wave spectral analysis 
 ## Title
 ### title?
@@ -13,7 +13,7 @@ ocean wave spectral analysis
 - point 2
 
 ```
-this is my cooode
+this is my code 
 ```
 
 ## Title
