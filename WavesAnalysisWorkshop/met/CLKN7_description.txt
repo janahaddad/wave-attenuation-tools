@@ -1,0 +1,14 @@
+Description of data in CLKN7_raw file
+
+This data is raw data (before quality control) from NOAA NDBC site CLKN7 at Cape Lookout.
+Accessible via the website http://www.ndbc.noaa.gov/station_page.php?station=CLKN7
+
+Columns in the original data file that contained missing data have been deleted.
+
+Columns are:
+Year  Month  Day  hour  min  winddir  windspd  gust  atmpressure  airtemp  
+YYYY  MM     DD   hh    mm   degT     m/s      m/s   hPa          degC  
+
+Time is in UTC (Coordinated Universal Time), which is 5 hours ahead of EST (Eastern Standard Time).
+EST = UTC - 5/24 *sensors should always be logging in EST 
+EDT = UTC - 4/24 
