@@ -1,3 +1,9 @@
+
+
+[![DOI](https://zenodo.org/badge/377268478.svg)](https://zenodo.org/badge/latestdoi/377268478)
+
+
+
 # wave attenuation
 ocean wave spectral analysis 
 ## Title
