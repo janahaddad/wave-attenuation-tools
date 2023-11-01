@@ -4,16 +4,6 @@
 
 
 
-# This is a test release of wave attenuation analysis tools 
-ocean wave spectral analysis 
-## Title
-### title?
-- point 1
-  -sub point
-- point 2
+# 1D wave model for Haddad et al (2023): Canopy drag parameterization from field observations for modeling wave transformation across salt marshes
 
-```
-this is my code 
-```
-
-## Title
+Model scripts are contained in /model. For example usage of gridgen and marshwavemodel, see examplerun.m 
